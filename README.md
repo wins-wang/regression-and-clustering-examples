@@ -16,9 +16,9 @@ The projects are organized as follows:
 
 | Notebook | Description |
 |:---|:---|
-| 01_regression_models.ipynb | Implementation and evaluation of regression models, including handwritten Standard Linear Regression and regularized models (Ridge, LASSO, SGD). |
-| 02_clustering_analysis.ipynb | Clustering of text documents using KMeans with custom cosine distance. Top term extraction and WordCloud visualization included. |
-| 03_pca_image_clustering.ipynb | Clustering of tabular image data before and after dimensionality reduction using PCA. Comparison of clustering performance pre- and post-PCA. |
+| [01_regression_models.ipynb](notebooks/01_regression_models.ipynb)  | Implementation and evaluation of regression models, including handwritten Standard Linear Regression and regularized models (Ridge, LASSO, SGD). |
+| [02_clustering_analysis.ipynb](notebooks/02_clustering_analysis.ipynb)| Clustering of text documents using KMeans with custom cosine distance. Top term extraction and WordCloud visualization included. |
+| [03_pca_image_clustering.ipynb](notebooks/03_pca_image_clustering.ipynb)  | Clustering of tabular image data before and after dimensionality reduction using PCA. Comparison of clustering performance pre- and post-PCA. |
 
 ## 🛠️ Key Skills Demonstrated
 
